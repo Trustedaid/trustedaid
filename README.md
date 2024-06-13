@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **.NET, Angular, Node Js**
 
-- 📫 How to reach me **erenoguz96@gmail.com or https://www.linkedin.com/in/ernoguz/**
+- 📫 How to reach me via e-mail **erenoguz96@gmail.com or ** linkedin profile
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
