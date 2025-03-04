@@ -10,7 +10,7 @@ I am always eager to learn new languages and technologies, and I am continuously
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trustedaid&label=Profile%20views&color=0e75b6&style=flat" alt="trustedaid" /> </p>
 
-- 🔭 I’m currently working on Projects **E-Commerce App**
+- 🔭 I’m currently working on Projects **E-Commerce App - Semantic Kernel**
 
 - 🌱 I’m currently learning **.NET, Angular, Node Js**
 
